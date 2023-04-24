@@ -1,0 +1,10 @@
+{
+  "name": "android-fingerprints",
+  "version": "0.1.0",
+  "description": "database of Android fingerprints extracted from MagiskHideProps",
+  "main": "index.js",
+  "repository": "https://github.com/pyrosec/android-fingerprints",
+  "author": "pyrosec",
+  "license": "MIT",
+  "private": false
+}
